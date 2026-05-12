@@ -1,0 +1,37 @@
+name: Feature request
+description: Suggest an idea or improvement
+labels: ["enhancement", "triage"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem this would solve
+      description: What are you trying to do that's currently difficult or impossible?
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: Describe what you'd like to happen. Mockups or examples welcome.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other approaches you've thought about or tried.
+
+  - type: dropdown
+    id: willingness_to_pay
+    attributes:
+      label: Would this influence your decision to subscribe to Pro?
+      options:
+        - "Yes — it's the main thing blocking me"
+        - "It would help but isn't the deciding factor"
+        - "No — I'd use it but it wouldn't change my plan"
+        - "I'm already on Pro"
+    validations:
+      required: true

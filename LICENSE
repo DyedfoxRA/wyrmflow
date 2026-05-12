@@ -1,0 +1,117 @@
+<!-- LEGAL-REVIEW: Drafted 2026-05-13; not reviewed by counsel.
+     Subject to revision before public release. -->
+
+WYRMFLOW END USER LICENSE AGREEMENT
+
+Last updated: 2026-05-13
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING WYRMFLOW.
+BY INSTALLING OR USING THE SOFTWARE YOU AGREE TO BE BOUND BY THESE TERMS.
+IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
+
+---
+
+1. DEFINITIONS
+
+"Software" means the Wyrmflow desktop application and all associated files
+distributed under this Agreement.
+
+"Licensee" means the individual who installs or uses the Software.
+
+"Free Tier" means use of the Software against one (1) locally-cloned
+repository per machine at no charge.
+
+"Paid Tier" means a subscription purchased at wyrmflow.io/pricing that
+unlocks use of the Software against more than one repository.
+
+"Repository" means a directory that contains a Jujutsu (.jj) or Git (.git)
+version-control database opened by the Software.
+
+---
+
+2. GRANT OF LICENSE
+
+Subject to the terms of this Agreement, the developer of Wyrmflow grants
+Licensee a limited, non-exclusive, non-transferable, revocable license to:
+
+  (a) Install and use the Software on devices owned or controlled by Licensee;
+  (b) Under the Free Tier: use the Software against ONE (1) open Repository
+      per machine at any given time at no charge;
+  (c) Under an active Paid Tier subscription: use the Software against an
+      unlimited number of Repositories per the terms of that subscription.
+
+---
+
+3. RESTRICTIONS
+
+Licensee may not:
+
+  (a) Redistribute, sublicense, sell, rent, lease, or otherwise transfer the
+      Software or any rights in it to any third party;
+  (b) Reverse-engineer, decompile, disassemble, or attempt to derive the
+      source code of the Software, except to the limited extent permitted by
+      applicable law;
+  (c) Remove or alter any proprietary notices, labels, or marks in the
+      Software;
+  (d) Bypass or disable any licensing, update, or telemetry mechanisms
+      without an active Paid Tier subscription.
+
+---
+
+4. AUTOMATIC UPDATES
+
+The Software may check for and apply updates automatically. Licensee may
+disable automatic updates in the Software's Settings. Continued use of the
+Software after an update constitutes acceptance of the updated version.
+
+---
+
+5. TELEMETRY
+
+The Software may collect anonymous usage data to improve the product.
+Collection is disclosed in the Software's privacy settings and may be
+disabled. No personally identifiable information is collected without
+explicit consent.
+
+---
+
+6. TERMINATION
+
+This license is effective until terminated. It will terminate automatically
+without notice if Licensee breaches any term of this Agreement. Upon
+termination Licensee must cease all use of the Software and destroy all
+copies in their possession.
+
+---
+
+7. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE ENTIRE RISK AS
+TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH LICENSEE.
+
+---
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+DEVELOPER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT
+OR THE USE OF THE SOFTWARE. THE DEVELOPER'S TOTAL LIABILITY SHALL NOT EXCEED
+THE AMOUNT PAID BY LICENSEE FOR THE SOFTWARE IN THE TWELVE (12) MONTHS
+PRECEDING THE CLAIM, OR ZERO (0) IF LICENSEE IS ON THE FREE TIER.
+
+---
+
+9. GOVERNING LAW
+
+This Agreement is governed by the laws of Estonia. Any disputes shall be
+resolved in the courts of Tallinn, Estonia.
+
+---
+
+10. CONTACT
+
+Legal inquiries: legal@wyrmflow.io
+General support: support@wyrmflow.io

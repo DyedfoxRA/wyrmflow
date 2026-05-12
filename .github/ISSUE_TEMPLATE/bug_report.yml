@@ -1,0 +1,69 @@
+name: Bug report
+description: Something isn't working as expected
+labels: ["bug", "triage"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Wyrmflow version
+      description: Found in Settings → About, or the window title bar
+      placeholder: "e.g. 0.9.1"
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      placeholder: "e.g. macOS 14.4 (Apple Silicon), Windows 11 23H2, Ubuntu 24.04"
+    validations:
+      required: true
+
+  - type: input
+    id: jj_version
+    attributes:
+      label: Jujutsu version
+      description: Run `jj --version` in your terminal
+      placeholder: "e.g. jj 0.19.0"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open a repo
+        2. Right-click commit …
+        3. Click …
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behaviour
+    validations:
+      required: true
+
+  - type: textarea
+    id: log
+    attributes:
+      label: Activity log (if relevant)
+      description: |
+        In Wyrmflow open the Activity panel → click "Copy log" and paste here.
+        Wrap in a details block if it is long.
+      render: text
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Screenshots, screen recordings, repo structure — anything that helps.

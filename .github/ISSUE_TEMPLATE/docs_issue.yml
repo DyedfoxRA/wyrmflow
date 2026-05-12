@@ -1,0 +1,24 @@
+name: Documentation issue
+description: Something in the docs is wrong, missing, or unclear
+labels: ["docs", "triage"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page or section
+      placeholder: "e.g. wyrmflow.io/docs/guides/conflict-resolution or README install table"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong or missing
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+      description: Optional — leave blank if you just want to flag the issue.
