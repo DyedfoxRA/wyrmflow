@@ -63,7 +63,7 @@ Light and dark mode. Font size, diff whitespace, and signing preferences. All jj
 | Tier | Repositories | Price |
 |---|---|---|
 | Free | 1 open repository per machine | Free forever |
-| Pro | Unlimited repositories | See [wyrmflow.io/pricing](https://wyrmflow.io/pricing) |
+| Pro | Unlimited repositories | See [wyrmflow.com/pricing](https://wyrmflow.com/pricing) |
 
 The free tier is a real tier, not a trial — use Wyrmflow on one repo for as long as you like at no cost.
 
@@ -73,13 +73,13 @@ The free tier is a real tier, not a trial — use Wyrmflow on one repo for as lo
 
 Found a bug or have a feature request? [Open an issue](https://github.com/DyedfoxRA/wyrmflow/issues/new/choose) — please use the appropriate template so we can triage quickly.
 
-For paid-tier support, email **support@wyrmflow.io**.
+For paid-tier support, email **support@wyrmflow.com**.
 
 ---
 
 ## Links
 
-- **Website & docs:** [wyrmflow.io](https://wyrmflow.io)
+- **Website & docs:** [wyrmflow.com](https://wyrmflow.com)
 - **Issue tracker:** [github.com/DyedfoxRA/wyrmflow/issues](https://github.com/DyedfoxRA/wyrmflow/issues)
 - **Discussions:** [github.com/DyedfoxRA/wyrmflow/discussions](https://github.com/DyedfoxRA/wyrmflow/discussions)
 - **License:** [LICENSE](LICENSE) *(subject to revision pending legal review)*

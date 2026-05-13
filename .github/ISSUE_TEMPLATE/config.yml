@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Paid-tier support
-    url: mailto:support@wyrmflow.io
+    url: mailto:support@wyrmflow.com
     about: For Pro subscribers. For bugs and feature requests please use the templates above.
   - name: General questions & discussion
     url: https://github.com/DyedfoxRA/wyrmflow/discussions
